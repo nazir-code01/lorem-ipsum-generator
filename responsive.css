@@ -1,0 +1,24 @@
+@media screen and (max-width: 445px) {
+    .container {
+        width: 290px;
+        gap: 1em;
+        padding: 1em 1.5em;
+    }
+
+    .button-section{
+        margin: 0;
+    }
+
+    .user-input {
+        text-wrap: nowrap;
+    }
+
+    .quantity-text,
+    .quantity {
+        font-size: 1.1em;
+    }
+
+    .generate-button, .reset-button, .text{
+        font-size: 1em;
+    }
+}
